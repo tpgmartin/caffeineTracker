@@ -1,0 +1,27 @@
+{
+  "name": "caffeineTracker",
+  "version": "0.0.0",
+  "description": "Personalized dashboard of your caffeine habits",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tpgmartin/caffeineTracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tpgmartin/caffeineTracker/issues"
+  },
+  "homepage": "https://github.com/tpgmartin/caffeineTracker",
+  "dependencies": {
+    "angular": "^1.4.7",
+    "angular-route": "^1.4.7",
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "method-override": "^2.3.5",
+    "mongoose": "^4.2.5"
+  }
+}
